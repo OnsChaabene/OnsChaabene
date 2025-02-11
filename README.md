@@ -21,9 +21,7 @@ I am passionate about leveraging data to drive better business outcomes and solv
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ons-chaabene/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/OnsChaabene)  
-[![Orcid]([https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white](https://www.google.com/imgres?q=orcid%20logo%20for%20github&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F14%2FORCID_logo.svg%2F640px-ORCID_logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AORCID_logo.svg&docid=HE2QxQ278JdwpM&tbnid=CmncWL90aTMBdM&vet=12ahUKEwi1qO2hubyLAxUbSvEDHWq0EAwQM3oECHYQAA..i&w=640&h=218&hcb=2&ved=2ahUKEwi1qO2hubyLAxUbSvEDHWq0EAwQM3oECHYQAA))](https://orcid.org/0009-0009-7449-0739)
-
-🔗 **Orcid:** [0009-0009-7449-0739](https://orcid.org/0009-0009-7449-0739)  
+[![Orcid](https://img.shields.io/badge/Orcid-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7449-0739)  
 
 ---
 
@@ -43,4 +41,4 @@ I am passionate about leveraging data to drive better business outcomes and solv
 ---
 
 ## 📬 Contact  
-📧 Email: onsschabene@gmail.com
+📧 Email:onsschabene@gmail.com
