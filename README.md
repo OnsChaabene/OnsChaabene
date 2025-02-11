@@ -1,7 +1,7 @@
 ## 💫 About Me  
-👋 Hi! I'm **Ons**, a **Quantitative Analyst & Data Enthusiast** with a background in **Applied Mathematics, Scientific Research, and Engineering**.  
+I'm **Ons**, a **Quantitative Analyst & Data Enthusiast** with a background in **Applied Mathematics, Scientific Research, and Engineering**.  
 
-I am passionate about leveraging data to drive better business outcomes and solve real-world challenges. My expertise lies in **data analytics, visualization, and optimization**, transforming raw data into meaningful insights for informed decision-making.  
+I love using data to solve real-world problems and improve business decisions. With expertise in **analytics, visualization, and optimization**, I turn raw data into clear, actionable insights.
 
 💡 **Interests:**  
 - 📊 **Data Analytics & Visualization**  
