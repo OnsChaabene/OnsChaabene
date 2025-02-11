@@ -21,10 +21,12 @@ I am passionate about leveraging data to drive better business outcomes and solv
 ## 🚀 Projects  
 
 🔹 [**Empowering Telecom Retention: Analyzing Churn to Boost Customer Loyalty**](https://github.com/OnsChaabene/Empowering-Telecom-Retention_-Analyzing-Churn-to-Boost-Customer-Loyalty) 
+
 📌 **Objective:** Enhance customer retention by analyzing churn factors.  
 📌 **Approach:** Used **Power BI** to investigate contract types and subscription patterns, identifying key drivers of customer churn and provide solutions to increase loyalty.  
 
 🔹 [**Clothing Company's Performance Analysis**](https://github.com/OnsChaabene/A-Comprehensive-Analysis-of-a-Clothing-Company-s-Performance) 
+
 📌 **Objective:** Assess retail operations, sales, and profitability.  
 📌 **Approach:** Used **Power BI** to analyze sales trends and business performance, providing actionable recommendations for strategy improvement.  
 
