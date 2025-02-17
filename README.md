@@ -26,7 +26,7 @@ I love using data to solve real-world problems and improve business decisions. W
 
 📌 **Approach:** Used **Power BI** to investigate contract types and subscription patterns, identifying key drivers of customer churn and provide solutions to increase loyalty.  
 
-🔹 [**Clothing Company's Performance Analysis**](https://github.com/OnsChaabene/A-Comprehensive-Analysis-of-a-Clothing-Company-s-Performance)  
+🔹 [**Maximizing Profit and Uncovering Insights: Clothing Company Performance Analysis**](https://github.com/OnsChaabene/A-Comprehensive-Analysis-of-a-Clothing-Company-s-Performance)  
 
 📌 **Objective:** Assess retail operations, sales, and profitability.  
 
