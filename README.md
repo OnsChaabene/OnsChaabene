@@ -53,7 +53,9 @@ I love using data to solve real-world problems and improve business decisions. W
 
 📌 Conducted **sentiment analysis** to understand revenue patterns and customer preferences.
 
-📌 **Approach:** Used **Python** for data analysis, visualization, and sentiment modeling.
+📌 **Approach:** Used **Python Jupyter Notebook** for data analysis and  visualizations.  
+
+
 ---
 
 ## 🌐 Socials  
