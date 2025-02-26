@@ -42,6 +42,18 @@ I love using data to solve real-world problems and improve business decisions. W
 
 📌 **Approach:** Used **Python** and **Matlab** for simulations and data visualizations.  
 
+
+🔹  **[Analyzing Brand Performance and Customer Insights](https://github.com/OnsChaabene/Analyzing-Brand-Performance-and-Customer-Insights-Impact-of-Pricing-Reviews-and-Sentiment-on-Revenue)**  
+
+📌 Analyzed the impact of **pricing, reviews, and sentiment** on **revenue** for an online sports apparel retailer.
+
+📌 Examined **brand positioning** of Adidas vs. Nike across different price categories.
+
+📌 Investigated the relationship between **customer ratings, product descriptions, and engagement**.
+
+📌 Conducted **sentiment analysis** to understand revenue patterns and customer preferences.
+
+📌 **Approach**: Used **Python** for data analysis, visualization, and sentiment modeling.
 ---
 
 ## 🌐 Socials  
