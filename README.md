@@ -19,6 +19,19 @@ I love using data to solve real-world problems and improve business decisions. W
 ---
 
 ## 🚀 Projects  
+🔹 **[Supply Chain Dashboard: Performance, Tracking & Sales Insights](https://github.com/OnsChaabene/Supply-Chain-Data-Analysis-Dashboards)**  
+
+📌 Built interactive dashboards to analyze **supply chain performance**, **order tracking**, and **sales trends**.
+
+📌 Explored **customer segmentation**, **payment behavior**, and **shipment timelines** using visual storytelling.
+
+📌 Developed a **customer tracking system** to follow orders, detect delays, and monitor shipping performance.
+
+📌 Analyzed **sales**, identified regional market trends, and explained a sales drop due to **market focus shifts**.
+
+📌 **Approach:** Created dashboards using **Power BI** with filters, maps, and KPI cards.
+
+📌 **Demo:** [🎥 Arabic Video Presentation](https://x.com/onsscha/status/1895136953198325904) — includes full walkthrough of the dashboards. *(The video is slightly sped up due to length limits — you may reduce the playback speed on YouTube for better clarity.)*
 
 🔹 [**Empowering Telecom Retention: Analyzing Churn to Boost Customer Loyalty**](https://github.com/OnsChaabene/Empowering-Telecom-Retention_-Analyzing-Churn-to-Boost-Customer-Loyalty)  
 
