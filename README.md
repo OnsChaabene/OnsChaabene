@@ -19,6 +19,13 @@ I love using data to solve real-world problems and improve business decisions. W
 ---
 
 ## 🚀 Projects  
+🔹 **[HR Data Analysis Project: Employee Performance, Retention & Diversity Insights](https://github.com/OnsChaabene/HR-Data-Analysis-Project-Employee-Performance-Retention-Diversity-Insights)**  
+
+📌 Objective: Support data-driven HR decisions by analyzing **employee performance**, **attrition**, and **diversity metrics**.  
+
+📌 Approach: Used **Power BI** to explore workforce trends across roles, tenure, and demographics — identifying key attrition drivers and equity gaps to inform targeted retention and inclusion strategies.
+
+
 🔹 **[Supply Chain Dashboard: Performance, Tracking & Sales Insights](https://github.com/OnsChaabene/Supply-Chain-Data-Analysis-Dashboards)**  
 
 📌 Built interactive dashboards to analyze **supply chain performance**, **order tracking**, and **sales trends**.
@@ -67,12 +74,6 @@ I love using data to solve real-world problems and improve business decisions. W
 📌 Conducted **sentiment analysis** to understand revenue patterns and customer preferences.
 
 📌 **Approach:** Used **Python Jupyter Notebook** for data analysis and  visualizations.  
-
-🔹 **[Empowering HR Strategy: Analyzing Workforce Data to Improve Retention and Equity](https://github.com/OnsChaabene/HR-Data-Analysis-Project-Employee-Performance-Retention-Diversity-Insights)**  
-
-📌 Objective: Support data-driven HR decisions by analyzing **employee performance**, **attrition**, and **diversity metrics**.  
-
-📌 Approach: Used **Power BI** to explore workforce trends across roles, tenure, and demographics — identifying key attrition drivers and equity gaps to inform targeted retention and inclusion strategies.
 
 ---
 
