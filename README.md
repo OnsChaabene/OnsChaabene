@@ -68,7 +68,7 @@ I love using data to solve real-world problems and improve business decisions. W
 
 📌 **Approach:** Used **Python Jupyter Notebook** for data analysis and  visualizations.  
 
-🔹 **[Empowering HR Strategy: Analyzing Workforce Data to Improve Retention and Equity]([https://repository.kaust.edu.sa/items/2815e18e-f308-4a1b-8f8f-3c54fee289a0](https://github.com/OnsChaabene/HR-Data-Analysis-Project-Employee-Performance-Retention-Diversity-Insights))**  
+🔹 **[Empowering HR Strategy: Analyzing Workforce Data to Improve Retention and Equity](https://repository.kaust.edu.sa/items/2815e18e-f308-4a1b-8f8f-3c54fee289a0](https://github.com/OnsChaabene/HR-Data-Analysis-Project-Employee-Performance-Retention-Diversity-Insights)**  
 
 📌 Objective: Support data-driven HR decisions by analyzing **employee performance**, **attrition**, and **diversity metrics**.  
 
