@@ -68,11 +68,10 @@ I love using data to solve real-world problems and improve business decisions. W
 
 📌 **Approach:** Used **Python Jupyter Notebook** for data analysis and  visualizations.  
 
-🔹 **[Empowering HR Strategy: Analyzing Workforce Data to Improve Retention and Equity](https://github.com/OnsChaabene/HR-Data-Analysis-Project-Employee-Performance-Retention-Diversity-Insights)
+🔹 **[Empowering HR Strategy: Analyzing Workforce Data to Improve Retention and Equity](https://github.com/OnsChaabene/HR-Data-Analysis-Project-Employee-Performance-Retention-Diversity-Insights)**  
 
-📌 Objective: Support data-driven HR decisions by analyzing **employee performance**, **attrition**, and **diversity metrics**.
-
-📌 Approach: Used **Power BI** to explore workforce trends across roles, tenure, and demographics—identifying key attrition drivers and equity gaps to inform targeted retention and inclusion strategies.
+📌 Objective: Support data-driven HR decisions by analyzing **employee performance**, **attrition**, and **diversity metrics**.  
+📌 Approach: Used **Power BI** to explore workforce trends across roles, tenure, and demographics — identifying key attrition drivers and equity gaps to inform targeted retention and inclusion strategies.
 ---
 
 ## 🌐 Socials  
